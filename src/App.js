@@ -6,6 +6,7 @@ import Header from './component/Header.js'
 import Footer from './component/Footer.js'
 import Adventure from './pages/Adventure.js';
 import LevelBuy from './component/LevelBuy.js';
+// juro que combat 2.0 vai existir!
 function App() {
   return (
     <BrowserRouter>
